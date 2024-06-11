@@ -12,3 +12,19 @@ In order to gain this new functionality, you'll have to modify your original `Us
 
 ## Bonus
 Add a method that allows for deleting a post.  Again, make sure that your information stays in sync.
+
+This exercise contains a pytest test suite to help you exercise your Test Driven Development skills. To run the test suite, please follow these steps:
+
+- Install pytest
+
+  ```bash
+    # terminal command
+    pip install pytest
+  ```
+
+- Run the test suite
+
+  ```bash
+    # terminal command
+    pytest test_User.py
+  ```
