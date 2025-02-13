@@ -1,44 +1,5 @@
 import pytest
 
-
-# class Circle:
-#     PI = 3.14159
-
-#     @staticmethod
-#     def area(radius):
-#        return Circle.PI * radius**2
-    
-#     def __init__(self, radius):
-#         self.radius = radius
-#         self.foo = 'this is foo'
-
-#     def get_diameter(self):
-#         return self.radius * 2
-
-# my_area = Circle.area(3)
-
-# my_circle = Circle(3)
-# print(type(my_circle))
-# print(my_circle.get_diameter())
-# print(type(Circle))
-
-# print('my circle dict')
-# print(my_circle.__dict__)
-# print(Circle.__dict__)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 class User:
     #posts = {}
     posts = []
@@ -207,3 +168,53 @@ class User:
 # # user.see_my_posts()
 # # out, err = capsys.readouterr()
 # out == ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+# class Circle:
+#     PI = 3.14159
+
+#     @staticmethod
+#     def area(radius):
+#        return Circle.PI * radius**2
+    
+#     def __init__(self, radius):
+#         self.radius = radius
+#         self.foo = 'this is foo'
+
+#     def get_diameter(self):
+#         return self.radius * 2
+
+# my_area = Circle.area(3)
+
+# my_circle = Circle(3)
+# print(type(my_circle))
+# print(my_circle.get_diameter())
+# print(type(Circle))
+
+# print('my circle dict')
+# print(my_circle.__dict__)
+# print(Circle.__dict__)
+
+
+
+
+
+
+
+
+
+
+
+
+
